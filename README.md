@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well hello! I, uh didn't really think I would be getting visitors... Uh... Well, here we go... *deep breath* Hi there! I'm AquaQuokka, a small collaborator who is an amateur (unpaid) coder, and I do lots of nerdy stuff in my free time! Well, I guess that's... ...it? My pronouns are He/They.
 
 <!--
 **AquaQuokka/AquaQuokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
