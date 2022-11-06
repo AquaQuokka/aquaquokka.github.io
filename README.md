@@ -1,7 +1,7 @@
 ### Ahoy! I'm AquaQuokka, a hobbyist developer.
 <br/>
 <br/>
-⌨️ I'm currently working on a Pycord bot called [Azumi](https://github.com/AquaQuokka/Azumi)<br/>
+⌨️ I'm currently working on a Pycord bot called [Azumi](https://github.com/AquaQuokka/Azumi).<br/>
 🐍 I'm currently learning Python.<br/>
 🎮 I'm looking to collaborate on Discord development.<br/>
 ❓ Ask me about anything!<br/>
