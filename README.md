@@ -34,3 +34,4 @@ Fun Fact!
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true" />
 </picture>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
