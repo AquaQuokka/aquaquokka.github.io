@@ -16,7 +16,7 @@ CSS (Beginner)<br/>
 <br/>
 Fun Fact!
 <br/>
-🌡️ Hot water freezes faster than cold water! 🧊
+🌡️ Hot water is hotter than cold water! 🧊
 
 <br/>
 <br/>
