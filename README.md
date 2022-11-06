@@ -23,4 +23,14 @@ Fun Fact!
 <br/>
 <br/>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquaquokka)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=AquaQuokka&show_icons=true&theme=light"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=AquaQuokka&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
