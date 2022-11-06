@@ -8,23 +8,19 @@
 🙌 They/Them, He/Him<br/>
 
 <br/>
-### Languages
 <br/>
 <br/>
 Python (Beginner)<br/>
 HTML (Beginner)<br/>
 CSS (Beginner)<br/>
 <br/>
-#### Fun Fact!
+Fun Fact!
 <br/>
 🌡️ Hot water freezes faster than cold water! 🧊
 
 <br/>
 <br/>
 <br/>
-
-# Statistics!
 <br/>
 <br/>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AquaQuokka)](https://github.com/anuraghazra/github-readme-stats)
-
