@@ -1,7 +1,7 @@
 ### Ahoy! I'm AquaQuokka, a hobbyist developer.
 <br/>
 <picture>
-https://img.shields.io/badge/AquaQuokka-00FFFF?style=for-the-badge&logo=GitHub&logoColor=white.svg
+https://img.shields.io/badge/AquaQuokka-00FFFF?style=for-the-badge&logo=GitHub&logoColor=white
 </picture>
 <br/>
 ⌨️ I'm currently working on a Pycord bot called Azumi.<br/>
