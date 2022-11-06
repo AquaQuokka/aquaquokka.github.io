@@ -9,13 +9,6 @@
 
 <br/>
 ### Languages
-#### Human
-<br/>
-<br/>
-English (Native)<br/>
-Danish (Beginner)
-<br/>
-#### Programming
 <br/>
 <br/>
 Python (Beginner)<br/>
