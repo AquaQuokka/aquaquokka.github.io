@@ -1,6 +1,6 @@
 ### Ahoy! I'm AquaQuokka, a hobbyist developer.
 <br/>
-![<Badge Name>](https://img.shields.io/badge/AquaQuokka-00FFFF?style=for-the-badge&logo=GitHub&logoColor=white)
+[github](https://img.shields.io/badge/AquaQuokka-00FFFF?style=for-the-badge&logo=GitHub&logoColor=white)
 <br/>
 ⌨️ I'm currently working on a Pycord bot called Azumi.<br/>
 🐍 I'm currently learning Python.<br/>
