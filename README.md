@@ -1,5 +1,6 @@
 ### Ahoy! I'm AquaQuokka, a hobbyist developer.
-
+<br/>
+<br/>
 <!--
 **AquaQuokka/AquaQuokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,30 +16,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⌨️ I'm currently working on a Pycord bot called [Azumi](https://github.com/AquaQuokka/Azumi)
-🐍 I'm currently learning Python.
-🎮 I'm looking to collaborate on Discord development.
-❓ Ask me about anything!
-🙌 They/Them, He/Him
+⌨️ I'm currently working on a Pycord bot called [Azumi](https://github.com/AquaQuokka/Azumi) <br/>
+🐍 I'm currently learning Python. <br/>
+🎮 I'm looking to collaborate on Discord development. <br/>
+❓ Ask me about anything! <br/>
+🙌 They/Them, He/Him <br/>
 
-
+<br/>
 ### Languages
-
-English (Native)
+#### Human
+<br/>
+<br/>
+English (Native)<br/>
 Danish (Beginner)
-
-### Programming Languages
-
-Python (Beginner)
-HTML (Beginner)
-CSS (Beginner)
-
+<br/>
+#### Programming
+<br/>
+<br/>
+Python (Beginner)<br/>
+HTML (Beginner)<br/>
+CSS (Beginner)<br/>
+<br/>
 #### Fun Fact!
+<br/>
 🌡️ Hot water freezes faster than cold water! 🧊
 
-
+<br/>
+<br/>
+<br/>
 
 # Statistics!
-
+<br/>
+<br/>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AquaQuokka)](https://github.com/anuraghazra/github-readme-stats)
 
