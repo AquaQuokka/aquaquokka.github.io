@@ -1,4 +1,5 @@
 ### Ahoy! I'm AquaQuokka, a hobbyist developer. 
+<p align="right">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=AquaQuokka&show_icons=true&theme=light&count_private=true"
