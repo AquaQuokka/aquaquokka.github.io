@@ -1,4 +1,6 @@
 ### Ahoy! I'm AquaQuokka, a hobbyist developer. 
+<br/>
+<br/>
 <p align="center">
 <picture>
 <source 
@@ -20,19 +22,6 @@
 🎮 I'm looking to collaborate on Discord development.<br/>
 ❓ Ask me about anything!<br/>
 🙌 They/Them, He/Him<br/>
-
-
-<br/>
-<br/>
-<br/>
-<p align="center">
-Python (Beginner)<br/>
-HTML (Beginner)<br/>
-CSS (Beginner)<br/>
-<br/>
-<br/>
-
-
 <p align="center">
 </p>
 <br/>
