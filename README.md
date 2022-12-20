@@ -5,7 +5,7 @@
 <br/>
 <br/>
 ⌨️ I’m currently working on a Pycord bot called Azumi.<br/>
-🐍 I'm currently learning Python, HTML, and CSS.<br/>
+🐍 I'm currently learning Python, HTML, CSS, and C#.<br/>
 🎮 I'm looking to collaborate on Discord development.<br/>
 ❓ Ask me about anything!<br/>
 🙌 They/Them, He/Him<br/>
