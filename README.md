@@ -25,5 +25,6 @@
   srcset="https://github-readme-stats.vercel.app/api?username=AquaQuokka&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=AquaQuokka&show_icons=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AquaQuokka&show_icons=true&count_private=true"/><br/>
+<img src="https://lanyard-profile-readme.vercel.app/api/694104689066639372?hideTimestamp=true&hideBadges=false"/>
 </picture>
