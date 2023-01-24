@@ -31,5 +31,5 @@ cursor: pointer;
 }
 html {
 font-family: Courier New;
-cursor: url("mycursor.cur"), default;
+cursor: ("mycursor.cur");
 }
