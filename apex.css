@@ -31,7 +31,8 @@ cursor: pointer;
 }
 html {
 font-family: Courier New;
+cursor: url('cursor.png'), auto;
 }
-html, body, body * {
+body, body * {
 cursor: url('cursor.png'), auto;
 }
