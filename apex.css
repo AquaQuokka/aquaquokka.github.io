@@ -33,5 +33,5 @@ html {
 font-family: Courier New;
 }
 html, body, body * {
-cursor: url('mycursor.svg'), auto;
+cursor: url('mycursor.png'), auto;
 }
