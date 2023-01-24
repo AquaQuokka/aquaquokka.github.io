@@ -32,6 +32,6 @@ cursor: pointer;
 html {
 font-family: Courier New;
 }
-html {
+html, body, body * {
 cursor: url('mycursor.svg'), auto;
 }
