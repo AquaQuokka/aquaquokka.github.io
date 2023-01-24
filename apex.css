@@ -33,8 +33,5 @@ html {
 font-family: Courier New;
 }
 html {
-cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.png');
-}
-body {
-cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.png');
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
 }
