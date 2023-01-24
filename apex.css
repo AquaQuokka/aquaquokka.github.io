@@ -35,3 +35,9 @@ font-family: Courier New;
 html {
 cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
 }
+body {
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
+}
+a {
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
+}
