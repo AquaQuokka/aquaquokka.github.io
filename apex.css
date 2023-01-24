@@ -32,6 +32,6 @@ cursor: pointer;
 html {
 font-family: Courier New;
 }
-html {
-cursor: url('mycursor.png');
+body {
+cursor: url('mycursor.png'), url('mycursor.cur');
 }
