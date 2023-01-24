@@ -33,11 +33,11 @@ html {
 font-family: Courier New;
 }
 html {
-cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg'), auto;
 }
 body {
-cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg'), auto;
 }
 a {
-cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg');
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.svg'), auto;
 }
