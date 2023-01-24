@@ -36,5 +36,5 @@ html {
 cursor: none;
 }
 body {
-cursor: url('mycursor.png'), url('mycursor.cur');
+cursor: url('https://raw.githubusercontent.com/AquaQuokka/aquaquokka.github.io/main/mycursor.png');
 }
