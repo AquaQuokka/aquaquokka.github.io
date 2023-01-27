@@ -1,8 +1,10 @@
 cff-version: 1.0.0
 message: "If you use this website, please cite it as below."
-authors:
-- given-names: "AquaQuokka"
-title: "aqua.is-a.dev"
-version: 1.0.0
-date-released: 2023-01-27
-url: "https://github.com/AquaQuokka/aquaquokka.github.io"
+preferred-citation:
+  type: generic
+  authors:
+  - given-names: "AquaQuokka"
+  title: "aqua.is-a.dev"
+  version: 1.0.0
+  date-released: 2023-01-27
+  url: "https://github.com/AquaQuokka/aquaquokka.github.io"
