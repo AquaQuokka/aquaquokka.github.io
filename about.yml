@@ -1,8 +1,9 @@
 ---
 Owner:
-- name: AquaQuokka
+- name: "AquaQuokka"
 ...
 ---
 Comments:
-# Thank you for visiting my website!
+- message: "Thank you for visiting!"
+  status: "In Development"
 ...
