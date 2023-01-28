@@ -15,6 +15,17 @@ background-attachment: scroll;
 }
 </style>
 <body>
+<nav id='menu'>
+  <input type='checkbox' id='responsive-menu' onclick='updatemenu()'><label></label>
+  <ul>
+    <li><a href='http://'>Home</a></li>
+    <li><a class='dropdown-arrow' href='http://'>Contact Us</a>
+      <ul class='sub-menus'>
+        <li><a href='mailto:1kwhgod4g@mozmail.com'>Email</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   Warning: Site is in development!
