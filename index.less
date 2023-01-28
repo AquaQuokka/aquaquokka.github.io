@@ -150,4 +150,16 @@ cursor: url('cursor2.png'), auto;
   color: black;
   cursor: url('cursor2.png'), auto;
 }
-
+.custom-loader {
+  width:25px;
+  height:25px;
+  border-radius:50%;
+  background:#99F447;
+  -webkit-mask:
+    repeating-conic-gradient(#0000 0deg,#000 1deg 70deg,#0000 71deg 90deg),
+    radial-gradient(farthest-side,#0000 calc(100% - 4.5px),#000 calc(100% - 4px));
+  -webkit-mask-composite: destination-in;
+  mask-composite: intersect;
+  animation:s5 0.5s infinite ;
+}
+@keyframes s5 {to{transform: rotate(.5turn)}}
