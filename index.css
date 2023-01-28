@@ -148,5 +148,6 @@ cursor: url('cursor2.png'), auto;
 /* When moving the mouse over the close button */
 .closebtn:hover {
   color: black;
+  cursor: url('cursor2.png'), auto;
 }
 
