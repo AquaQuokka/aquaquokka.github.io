@@ -141,7 +141,7 @@ cursor: url('cursor2.png'), auto;
   float: right;
   font-size: 22px;
   line-height: 20px;
-  cursor: pointer;
+  cursor: url('cursor2.png'), auto;
   transition: 0.3s;
 }
 
