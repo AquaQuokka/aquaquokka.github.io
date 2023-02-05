@@ -1,3 +1,4 @@
+/*
 button {
 border: 1px solid rgb(231, 160, 224);
 border-radius: 10px;
@@ -13,7 +14,7 @@ cursor: url('cursor2.png'), auto;
 }
 
 button:hover {
-  transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.2);
   cursor: url('cursor2.png'), auto;
 }
 
@@ -60,22 +61,20 @@ cursor: url('cursor2.png'), auto;
   margin: auto;
   opacity: 0.5;
 }
-/* width */
+
 ::-webkit-scrollbar {
   width: 5px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
   background: #171717;
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
   background: #45228f;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #662edb;
 }
+*/
