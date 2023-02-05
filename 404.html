@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="robots" content="noindex, nofollow"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <title>{{ code }} | {{ message }}</title>
+    <title>{{ 404 }} | {{ Not Found }}</title>
     <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
     <link rel="dns-prefetch" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css2?family=Red+Hat+Display:wght@500&family=Fira+Mono&family=Ubuntu&display=swap" rel="stylesheet"/>
@@ -74,7 +74,7 @@
             </svg>
         </i>
         <main data-l10n>Your Client</main>
-        <p class="status-text" data-l10n>Unknown</p>
+        <p class="status-text" data-l10n>Working</p>
     </div>
 
     <div class="arrows">
@@ -121,11 +121,11 @@
 <div class="reason">
     <div class="what-happened">
         <h2 data-l10n>What happened?</h2>
-        <p class="description" data-l10n>{{ description }}</p>
+        <p class="description" data-l10n>{{ The requested page was not found. }}</p>
     </div>
     <div class="what-can-i-do">
         <h2 data-l10n>What can I do?</h2>
-        <p class="description" data-l10n>Please try again in a few minutes</p>
+        <p class="description" data-l10n>Try using another page.</p>
     </div>
 </div>
 </body>
@@ -133,15 +133,10 @@
     {{ if show_details }}
     <div class="details">
         <ul>
-            {{- if host }}<li><span><span data-l10n>Host</span>:</span> <code>{{ host }}</code></li>{{ end -}}
-            {{- if original_uri }}<li><span><span data-l10n>Original URI</span>:</span> <code>{{ original_uri }}</code></li>{{ end -}}
-            {{- if forwarded_for }}<li><span><span data-l10n>Forwarded for</span>:</span> <code>{{ forwarded_for }}</code></li>{{ end -}}
-            {{- if namespace }}<li><span><span data-l10n>Namespace</span>:</span> <code>{{ namespace }}</code></li>{{ end -}}
-            {{- if ingress_name }}<li><span><span data-l10n>Ingress name</span>:</span> <code>{{ ingress_name }}</code></li>{{ end -}}
-            {{- if service_name }}<li><span><span data-l10n>Service name</span>:</span> <code>{{ service_name }}</code></li>{{ end -}}
-            {{- if service_port }}<li><span><span data-l10n>Service port</span>:</span> <code>{{ service_port }}</code></li>{{ end -}}
-            {{- if request_id }}<li><span><span data-l10n>Request ID</span>:</span> <code>{{ request_id }}</code></li>{{ end -}}
-            <li><span><span data-l10n>Timestamp</span>:</span> <code>{{ now.Unix }}</code></li>
+            {{- if host }}<li><span><span data-l10n>Host</span>:</span> <code>{{ github pages }}</code></li>{{ end -}}
+            {{- if service_name }}<li><span><span data-l10n>Service name</span>:</span> <code>{{ pages }}</code></li>{{ end -}}
+            {{- if service_port }}<li><span><span data-l10n>Service port</span>:</span> <code>{{ 443 }}</code></li>{{ end -}}
+            {{- if request_id }}<li><span><span data-l10n>Request ID</span>:</span> <code>{{ invalid }}</code></li>{{ end -}}
         </ul>
     </div>
     {{ end }}
