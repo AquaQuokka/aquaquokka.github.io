@@ -1,0 +1,204 @@
+html, body {
+background-color: black;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+background-origin: content-box;
+background-blend-mode: color;
+}
+header {
+  display: none;
+}
+a:link {
+color:rgb(255, 204, 0);
+text-decoration: none;
+}
+a:visited {
+color:rgb(204, 112, 0);
+text-decoration: none;
+}
+a:hover {
+color:rgb(255, 204, 0);
+}
+a:active {
+color:rgb(204, 112, 0);
+}
+#vsb {
+border: 1px solid rgb(0, 255, 102);
+border-radius: 18px;
+background-color: rgb(0, 255, 102);
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: url('cursor2.png'), auto;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+#ytb {
+border: 1px solid rgb(255, 0, 0);
+border-radius: 18px;
+background-color: rgb(255, 0, 0);
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: url('cursor2.png'), auto;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+#ghb {
+border: 1px solid rgb(23, 21, 21);
+border-radius: 18px;
+background-color: rgb(23, 21, 21);
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: url('cursor2.png'), auto;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+#dgb {
+border: 1px solid rgb(88, 101, 242);
+border-radius: 18px;
+background-color: rgb(88, 101, 242);
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: url('cursor2.png'), auto;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+button:hover {
+  transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+cursor: url('cursor2.png'), auto;
+}
+html {
+font-family: Courier New;
+color: white;
+}
+html, body, body * {
+cursor: url('cursor.png'), auto;
+}
+html {
+  zoom: 85%;
+}
+button {
+cursor: url('cursor2.png'), auto;
+}
+a {
+cursor: url('cursor2.png'), auto;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  max-height: 4%;
+  width: 100%;
+  height: 4%;
+  padding-bottom: 1%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: auto;
+  opacity: 0.5;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #171717;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #45228f;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #662edb;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0 25px;
+  height: 50px;
+  font-size: 16px;
+  line-height: 50px;
+  border-radius: 25px;
+  color: white;
+  background-color: transparent;
+}
+
+.chip img {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+/* The alert message box */
+.alert {
+  border: 1px solid transparent;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #e3bd12; /* Red */
+  color: white;
+  margin-bottom: 15px;
+  opacity: 1;
+  transition: opacity 0.6s;
+  width: 400px;
+  font-family: Arial;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: url('cursor2.png'), auto;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+  cursor: url('cursor2.png'), auto;
+}
+.custom-loader {
+  width:25px;
+  height:25px;
+  border-radius:50%;
+  background:#99F447;
+  -webkit-mask:
+    repeating-conic-gradient(#0000 0deg,#000 1deg 70deg,#0000 71deg 90deg),
+    radial-gradient(farthest-side,#0000 calc(100% - 4.5px),#000 calc(100% - 4px));
+  -webkit-mask-composite: destination-in;
+  mask-composite: intersect;
+  animation:s5 0.5s infinite ;
+}
+@keyframes s5 {to{transform: rotate(.5turn)}}
