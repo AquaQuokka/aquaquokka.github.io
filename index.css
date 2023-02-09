@@ -177,13 +177,13 @@ a {
   float: right;
   font-size: 22px;
   line-height: 20px;
-  cursor: auto;
+  cursor: pointer;
   transition: 0.3s;
 }
 /* When moving the mouse over the close button */
 .closebtn:hover {
   color: black;
-  cursor: auto;
+  cursor: pointer;
 }
 .custom-loader {
   width: 25px;
